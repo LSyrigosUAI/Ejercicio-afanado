@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\PreParcial\PreParcial\bin\Debug\PreParcial.exe.config
+C:\Users\usuario\source\repos\PreParcial\PreParcial\bin\Debug\PreParcial.exe
+C:\Users\usuario\source\repos\PreParcial\PreParcial\bin\Debug\PreParcial.pdb
+C:\Users\usuario\source\repos\PreParcial\PreParcial\bin\Debug\BL.dll
+C:\Users\usuario\source\repos\PreParcial\PreParcial\bin\Debug\BL.pdb
+C:\Users\usuario\source\repos\PreParcial\PreParcial\obj\Debug\PreParcial.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\PreParcial\PreParcial\obj\Debug\PreParcial.Form1.resources
+C:\Users\usuario\source\repos\PreParcial\PreParcial\obj\Debug\PreParcial.Properties.Resources.resources
+C:\Users\usuario\source\repos\PreParcial\PreParcial\obj\Debug\PreParcial.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\PreParcial\PreParcial\obj\Debug\PreParcial.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\PreParcial\PreParcial\obj\Debug\PreParcial.csproj.CopyComplete
+C:\Users\usuario\source\repos\PreParcial\PreParcial\obj\Debug\PreParcial.exe
+C:\Users\usuario\source\repos\PreParcial\PreParcial\obj\Debug\PreParcial.pdb

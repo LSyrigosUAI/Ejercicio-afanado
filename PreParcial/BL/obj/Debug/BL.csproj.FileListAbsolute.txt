@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\PreParcial\BL\bin\Debug\BL.dll
+C:\Users\usuario\source\repos\PreParcial\BL\bin\Debug\BL.pdb
+C:\Users\usuario\source\repos\PreParcial\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\PreParcial\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\PreParcial\BL\obj\Debug\BL.dll
+C:\Users\usuario\source\repos\PreParcial\BL\obj\Debug\BL.pdb
